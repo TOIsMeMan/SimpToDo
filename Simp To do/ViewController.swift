@@ -152,7 +152,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
             tableView.isEditing = true
             i = 0
             tableView.reloadData()
-            CSHTButtonIU.title = "Hoàn Thành"
+            CSHTButtonIU.title = "Hoàn Thành Đi"
         }
     }
     
